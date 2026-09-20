@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://nepal-in-october.vercel.app/
 
 # Google Bot
 User-agent: Googlebot
